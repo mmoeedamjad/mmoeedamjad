@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Moeed — a final-year BSCS student passionate about building impactful software solutions.<br>I’ve worked on multiple projects using MERN and PHP, with one of my MERN applications successfully deployed and live on the internet.<br><br>I’m eager to explore new opportunities where I can grow, learn, and gain hands-on experience in the field of software development. My focus is on sharpening my skills, contributing to meaningful projects, and continuously evolving as a developer.
+Hi, I’m Moeed — a final-year BSCS student passionate about building impactful software solutions.<br>I’ve worked on multiple projects using MERN and PHP. I've also worked on Oracle Forms, Oracle Application Express for Enterprise applications.<br><br>I’m eager to explore new opportunities where I can grow, learn, and gain hands-on experience in the field of software development. My focus is on sharpening my skills, contributing to meaningful projects, and continuously evolving as a developer.
 
 
 ## 🌐 Socials:
